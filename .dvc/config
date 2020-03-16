@@ -1,0 +1,5 @@
+[core]
+    remote = dvc_connection
+['remote "dvc_connection"']
+    url = ssh://s0000000@dt1.f4.htw-berlin.de:/mnt/md0/s0000000/github.com/Bluemi/dvc-cc-test.git
+    ask_password = true
