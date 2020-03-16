@@ -71,7 +71,7 @@ container:
       vendor: "nvidia"
     image:
       url: 'docker.io/deepprojects/dvc-cc-large:10.1'
-    ram: 131072
+    ram: 60000
 execution:
   engine: ccagency
   settings:
