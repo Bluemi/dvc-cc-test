@@ -1,0 +1,8 @@
+WARNING: DVC-file 'dvc/390883da-da26-43ac-b80a-e3be5f3dd0db.dvc' changed.
+WARNING: Stage 'dvc/390883da-da26-43ac-b80a-e3be5f3dd0db.dvc' changed.
+Running command:
+	touch a.txt
+
+To track the changes with git, run:
+
+	git add dvc/390883da-da26-43ac-b80a-e3be5f3dd0db.dvc
