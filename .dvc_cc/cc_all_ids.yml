@@ -22,3 +22,7 @@ cc_0010_test:
 - 5e6f73ddf7fafc694c4fb09c
 cc_0011_test:
 - 5e6f759371cd2565e0a3e4a5
+cc_0013_NotebookTest1_NUMSAMPLES10:
+- 5e6f76a8f7fafc694c4fb0a5
+cc_0013_NotebookTest1_NUMSAMPLES20:
+- 5e6f76b5f7fafc694c4fb0aa
