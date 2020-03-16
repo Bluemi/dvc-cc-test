@@ -1,8 +1,9 @@
-cmd: papermill test.ipynb test_output.ipynb -k python -p num_samples 100
-  -k python -p y 2
+cmd: papermill test.ipynb test_output.ipynb -k python -p num_samples 100 -k python
+  -p y 2
 wdir: ..
 deps:
 - path: test.ipynb
+  md5: bdf7ecd3e8e32c532f5c14f7fff7b2d7
 outs:
 - path: test_output.ipynb
   cache: true
@@ -10,3 +11,5 @@ outs:
   persist: false
 
 
+  md5: 7fd7a7418bbfa2ebeffd3669bbe4e004
+md5: 2735def4578ae095ca617015f149f341
